@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e5ca9c8c3a3011d8",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能引论.md",
+                "file": "ppt/蒙特卡洛树搜索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "人工智能引论 的反向链接列表"
+              "title": "蒙特卡洛树搜索 的反向链接列表"
             }
           },
           {
@@ -199,14 +198,28 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3c5f54a5e7b7e495",
+  "active": "cfa86b73e96359f0",
   "lastOpenFiles": [
-    "Notes/搜索：UCS和A.md",
-    "ppt/~$4、搜索概述.pptx",
-    "Pasted image 20260323131345.png",
-    "Notes/对抗搜索.md",
+    "lab/lab1-part2/lab1-part2/__pycache__/textDisplay.cpython-310.pyc",
+    "lab/lab1-part2/lab1-part2/__pycache__/pacmanAgents.cpython-310.pyc",
     "ppt/~$7、对抗搜索.pptx",
-    "ppt/7、对抗搜索.pptx",
+    "lab/lab1-part2/lab1-part2/__pycache__/testParser.cpython-310.pyc",
+    "lab/lab1-part2/lab1-part2/__pycache__/autograder.cpython-310.pyc",
+    "lab/lab1-part2/lab1-part2/__pycache__/testClasses.cpython-310.pyc",
+    "lab/lab1-part2/lab1-part2/__pycache__/multiagentTestClasses.cpython-310.pyc",
+    "lab/lab1-part2/lab1-part2/__pycache__/pacman.cpython-310.pyc",
+    "lab/lab1-part2/lab1-part2/__pycache__/projectParams.cpython-310.pyc",
+    "lab/lab1-part2/lab1-part2/__pycache__/grading.cpython-310.pyc",
+    "ppt/8、蒙特卡洛搜索.pdf",
+    "ppt/蒙特卡洛树搜索.md",
+    "Pasted image 20260330155246.png",
+    "Pasted image 20260330155238.png",
+    "Pasted image 20260330155226.png",
+    "lab/lab1-part2/lab1-part2/README-ZH.md",
+    "Notes/对抗搜索.md",
+    "Lesson 6.md",
+    "Notes/搜索：UCS和A.md",
+    "Pasted image 20260323131345.png",
     "Notes/搜索问题.md",
     "Notes/搜索：逻辑和CSP.md",
     "Notes/人工智能引论.md",
@@ -216,18 +229,8 @@
     "Notes/Pasted image 20260319195552.png",
     "Notes/Pasted image 20260319195022.png",
     "Notes/Pasted image 20260319194458.png",
-    "Notes/Pasted image 20260319154026.png",
-    "Notes/Pasted image 20260319153941.png",
-    "Notes/Pasted image 20260319152947.png",
     "搜索：UCS和A.md",
     "搜索：逻辑和CSP.md",
-    "Notes",
-    "新建文件夹",
-    "lab/lab1-part1-final/__MACOSX/lab1-part1-final/test_cases/q4",
-    "lab/lab1-part1-final/__MACOSX/lab1-part1-final/test_cases/q3",
-    "lab/lab1-part1-final/__MACOSX/lab1-part1-final/test_cases/q2",
-    "lab/lab1-part1-final/__MACOSX/lab1-part1-final/test_cases/q1",
-    "lab/lab1-part1-final/__MACOSX/lab1-part1-final/test_cases/q0",
     "lab/lab1-part1-final/lab1-part1-final/README.md",
     "搜索问题.md",
     "人工智能引论.md",
